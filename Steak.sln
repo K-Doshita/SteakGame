@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steak", "Assembly-CSharp.csproj", "{DA14AB7F-BB3B-05C2-3B35-7E5EB31B258B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steak", "Assembly-CSharp-Editor.csproj", "{B54F37F3-D569-3512-812B-A8E17FEAC473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA14AB7F-BB3B-05C2-3B35-7E5EB31B258B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA14AB7F-BB3B-05C2-3B35-7E5EB31B258B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA14AB7F-BB3B-05C2-3B35-7E5EB31B258B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA14AB7F-BB3B-05C2-3B35-7E5EB31B258B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54F37F3-D569-3512-812B-A8E17FEAC473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54F37F3-D569-3512-812B-A8E17FEAC473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54F37F3-D569-3512-812B-A8E17FEAC473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54F37F3-D569-3512-812B-A8E17FEAC473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
